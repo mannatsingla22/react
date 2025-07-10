@@ -1,0 +1,22 @@
+.topology-container {
+  width: 100%;
+  max-width: 800px;
+  margin: 2rem auto;
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px #0001;
+  padding: 1rem;
+}
+svg {
+  width: 100%;
+  height: 400px;
+  display: block;
+}
+@media (max-width: 600px) {
+  .topology-container {
+    padding: 0.5rem;
+  }
+  svg {
+    height: 250px;
+  }
+}
