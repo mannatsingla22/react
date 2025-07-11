@@ -59,10 +59,6 @@ The build files will be generated in the `dist` directory.
 - Use the registration form to create a new account.
 - Both forms include validation to ensure proper input.
 
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or features.
-
 ## License
 
 This project is licensed under the MIT License.
