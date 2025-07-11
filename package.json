@@ -9,12 +9,13 @@
   },
   "dependencies": {
     "d3": "^7.9.0",
+    "mongodb": "^6.17.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-router-dom": "^7.6.3"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.6.0",
-    "vite": "^4.0.0"
+    "vite": "^7.0.4"
   }
 }
